@@ -16,6 +16,7 @@ Learning project: a single-page React site with a navbar, logo, and fun facts li
 - CSS3  
 
 ## 📂 Project Structure
+```
 react-facts/
 ├── App.jsx               # Root component
 ├── README.md             # Project documentation
@@ -30,6 +31,7 @@ react-facts/
 ├── index.jsx             # Entry point, renders <App />
 ├── package.json          # Project metadata and dependencies
 └── vite.config.js        # Vite configuration
+```
 
 ## 📈 Learning Purpose
 This project helped me practice:  
